@@ -8,4 +8,4 @@ Video_Frame_Reducer\
 \
 This code was written to do the frame reduction operation on all videos in a folder and then write the output to another folder.\
 \
-Video_Frame_Reducer_Batch\
+Video_Frame_Reducer_Batch
